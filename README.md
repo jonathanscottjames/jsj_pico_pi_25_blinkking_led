@@ -1,6 +1,7 @@
 # jsj_pico_pi_25_blinkking_led
-pico pi micropython all internal commands 25 blinking led one input button
-https://wokwi.com/projects/368213601376419841
+# pico pi micropython all internal commands 25 blinking led one input 
+# button
+# 0https://wokwi.com/projects/368213601376419841
 p=0
 i=0
 c=0
