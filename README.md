@@ -1,3 +1,6 @@
+#this micropython file uses only internal commands so there is no dependentsies on imports and it is long habd easy to understand and edit.. it represents 
+#100 hours of research to trry to figure outr rthe internal commands and structurs so that it is very easy to understand edit and usa as a temnplate. thanks 
+#for reading. below is an earlier version of the script. the latest one uses an if astatement and has a different execuition order
 # jsj_pico_pi_25_blinkking_led
 # pico pi micropython all internal commands 25 blinking led one input 
 # button
